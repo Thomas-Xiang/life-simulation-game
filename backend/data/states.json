@@ -1,0 +1,512 @@
+[
+  {
+    "code": "AL",
+    "name": "Alabama",
+    "x": 8,
+    "y": 5,
+    "cost": 0.88,
+    "wage": 0.9,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "AK",
+    "name": "Alaska",
+    "x": 0,
+    "y": 7,
+    "cost": 1.22,
+    "wage": 1.12,
+    "sector": "energy",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "AZ",
+    "name": "Arizona",
+    "x": 2,
+    "y": 4,
+    "cost": 1.04,
+    "wage": 1.0,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "AR",
+    "name": "Arkansas",
+    "x": 6,
+    "y": 5,
+    "cost": 0.84,
+    "wage": 0.87,
+    "sector": "logistics",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "CA",
+    "name": "California",
+    "x": 0,
+    "y": 3,
+    "cost": 1.55,
+    "wage": 1.22,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "CO",
+    "name": "Colorado",
+    "x": 3,
+    "y": 3,
+    "cost": 1.2,
+    "wage": 1.12,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "CT",
+    "name": "Connecticut",
+    "x": 10,
+    "y": 2,
+    "cost": 1.22,
+    "wage": 1.18,
+    "sector": "finance",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "DE",
+    "name": "Delaware",
+    "x": 10,
+    "y": 4,
+    "cost": 1.08,
+    "wage": 1.06,
+    "sector": "finance",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "FL",
+    "name": "Florida",
+    "x": 10,
+    "y": 6,
+    "cost": 1.14,
+    "wage": 1.0,
+    "sector": "hospitality",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "GA",
+    "name": "Georgia",
+    "x": 8,
+    "y": 6,
+    "cost": 1.02,
+    "wage": 1.02,
+    "sector": "logistics",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "HI",
+    "name": "Hawaii",
+    "x": 0,
+    "y": 8,
+    "cost": 1.6,
+    "wage": 1.08,
+    "sector": "hospitality",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "ID",
+    "name": "Idaho",
+    "x": 2,
+    "y": 2,
+    "cost": 1.02,
+    "wage": 0.94,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "IL",
+    "name": "Illinois",
+    "x": 6,
+    "y": 2,
+    "cost": 1.06,
+    "wage": 1.08,
+    "sector": "finance",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "IN",
+    "name": "Indiana",
+    "x": 7,
+    "y": 2,
+    "cost": 0.89,
+    "wage": 0.96,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "IA",
+    "name": "Iowa",
+    "x": 5,
+    "y": 2,
+    "cost": 0.86,
+    "wage": 0.95,
+    "sector": "agriculture",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "KS",
+    "name": "Kansas",
+    "x": 4,
+    "y": 4,
+    "cost": 0.88,
+    "wage": 0.95,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "KY",
+    "name": "Kentucky",
+    "x": 7,
+    "y": 3,
+    "cost": 0.88,
+    "wage": 0.92,
+    "sector": "logistics",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "LA",
+    "name": "Louisiana",
+    "x": 6,
+    "y": 6,
+    "cost": 0.9,
+    "wage": 0.94,
+    "sector": "energy",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "ME",
+    "name": "Maine",
+    "x": 11,
+    "y": 0,
+    "cost": 1.1,
+    "wage": 0.96,
+    "sector": "hospitality",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "MD",
+    "name": "Maryland",
+    "x": 9,
+    "y": 3,
+    "cost": 1.24,
+    "wage": 1.15,
+    "sector": "public_service",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "MA",
+    "name": "Massachusetts",
+    "x": 11,
+    "y": 1,
+    "cost": 1.45,
+    "wage": 1.22,
+    "sector": "biotech",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "MI",
+    "name": "Michigan",
+    "x": 7,
+    "y": 1,
+    "cost": 0.95,
+    "wage": 1.02,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "MN",
+    "name": "Minnesota",
+    "x": 5,
+    "y": 0,
+    "cost": 1.04,
+    "wage": 1.08,
+    "sector": "healthcare",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "MS",
+    "name": "Mississippi",
+    "x": 7,
+    "y": 5,
+    "cost": 0.83,
+    "wage": 0.85,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "MO",
+    "name": "Missouri",
+    "x": 5,
+    "y": 4,
+    "cost": 0.91,
+    "wage": 0.96,
+    "sector": "logistics",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "MT",
+    "name": "Montana",
+    "x": 3,
+    "y": 1,
+    "cost": 1.06,
+    "wage": 0.95,
+    "sector": "agriculture",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "NE",
+    "name": "Nebraska",
+    "x": 4,
+    "y": 3,
+    "cost": 0.89,
+    "wage": 0.97,
+    "sector": "agriculture",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "NV",
+    "name": "Nevada",
+    "x": 1,
+    "y": 3,
+    "cost": 1.1,
+    "wage": 1.0,
+    "sector": "hospitality",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "NH",
+    "name": "New Hampshire",
+    "x": 11,
+    "y": 2,
+    "cost": 1.18,
+    "wage": 1.1,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "NJ",
+    "name": "New Jersey",
+    "x": 10,
+    "y": 3,
+    "cost": 1.35,
+    "wage": 1.18,
+    "sector": "finance",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "NM",
+    "name": "New Mexico",
+    "x": 3,
+    "y": 5,
+    "cost": 0.94,
+    "wage": 0.93,
+    "sector": "public_service",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "NY",
+    "name": "New York",
+    "x": 10,
+    "y": 1,
+    "cost": 1.48,
+    "wage": 1.23,
+    "sector": "finance",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "NC",
+    "name": "North Carolina",
+    "x": 9,
+    "y": 4,
+    "cost": 1.02,
+    "wage": 1.02,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "ND",
+    "name": "North Dakota",
+    "x": 4,
+    "y": 1,
+    "cost": 0.94,
+    "wage": 1.03,
+    "sector": "energy",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "OH",
+    "name": "Ohio",
+    "x": 8,
+    "y": 2,
+    "cost": 0.92,
+    "wage": 0.99,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "OK",
+    "name": "Oklahoma",
+    "x": 5,
+    "y": 5,
+    "cost": 0.85,
+    "wage": 0.91,
+    "sector": "energy",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "OR",
+    "name": "Oregon",
+    "x": 1,
+    "y": 2,
+    "cost": 1.22,
+    "wage": 1.07,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "x": 9,
+    "y": 2,
+    "cost": 1.02,
+    "wage": 1.04,
+    "sector": "healthcare",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "RI",
+    "name": "Rhode Island",
+    "x": 12,
+    "y": 2,
+    "cost": 1.2,
+    "wage": 1.05,
+    "sector": "healthcare",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "SC",
+    "name": "South Carolina",
+    "x": 9,
+    "y": 5,
+    "cost": 0.99,
+    "wage": 0.95,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "SD",
+    "name": "South Dakota",
+    "x": 4,
+    "y": 2,
+    "cost": 0.9,
+    "wage": 0.94,
+    "sector": "agriculture",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "TN",
+    "name": "Tennessee",
+    "x": 7,
+    "y": 4,
+    "cost": 0.98,
+    "wage": 0.97,
+    "sector": "logistics",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "TX",
+    "name": "Texas",
+    "x": 4,
+    "y": 6,
+    "cost": 1.02,
+    "wage": 1.06,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "UT",
+    "name": "Utah",
+    "x": 2,
+    "y": 3,
+    "cost": 1.13,
+    "wage": 1.04,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "VT",
+    "name": "Vermont",
+    "x": 10,
+    "y": 0,
+    "cost": 1.14,
+    "wage": 0.99,
+    "sector": "public_service",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "VA",
+    "name": "Virginia",
+    "x": 8,
+    "y": 3,
+    "cost": 1.16,
+    "wage": 1.12,
+    "sector": "public_service",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "WA",
+    "name": "Washington",
+    "x": 1,
+    "y": 1,
+    "cost": 1.36,
+    "wage": 1.2,
+    "sector": "technology",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "WV",
+    "name": "West Virginia",
+    "x": 8,
+    "y": 4,
+    "cost": 0.82,
+    "wage": 0.88,
+    "sector": "energy",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "WI",
+    "name": "Wisconsin",
+    "x": 6,
+    "y": 1,
+    "cost": 0.95,
+    "wage": 1.0,
+    "sector": "manufacturing",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "WY",
+    "name": "Wyoming",
+    "x": 3,
+    "y": 2,
+    "cost": 0.95,
+    "wage": 0.99,
+    "sector": "energy",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  },
+  {
+    "code": "DC",
+    "name": "District of Columbia",
+    "x": 10,
+    "y": 5,
+    "cost": 1.48,
+    "wage": 1.25,
+    "sector": "public_service",
+    "model_basis": "Synthetic game scenario; NOT official state wage, rent, tax or tuition data."
+  }
+]
