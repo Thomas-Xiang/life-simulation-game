@@ -1,4 +1,4 @@
-```markdown
+
 # Life Atlas v2: State Chapters
 
 A complete Vue + FastAPI life simulation game. Pick your path, balance your finances across 50 US states + DC, and see where life takes you.
